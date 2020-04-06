@@ -8,7 +8,7 @@ GitHub 是一个面向开源及私有软件项目的托管平台，因为只支�
 ### 揭开 GitHub 的神秘面纱
 
 * [初识 GitHub · 简介篇](Chapter1/0101-初识GitHub之简介篇.md)
-* [敲开 GitHub 的大门注册账号](Chapter1/0102-敲开 GitHub的大门之注册账号.md)
+* [敲开 GitHub 的大门注册账号](Chapter1/0102-敲开GitHub的大门之注册账号.md)
 * [GitHub 主页介绍及修改个人信息](Chapter1/0103-GitHub主页介绍及修改个人信息.md)
 * [创建 GitHub 仓库的步骤及方法](Chapter1/0104-创建GitHub仓库的步骤及方法.md)
 * [GitHub 术语解释](Chapter1/0105-GitHub术语解释.md)
