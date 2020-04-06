@@ -8,23 +8,23 @@ GitHub 是一个面向开源及私有软件项目的托管平台，因为只支�
 ### 揭开 GitHub 的神秘面纱
 
 * [初识 GitHub · 简介篇](Chapter1/0101-初识GitHub之简介篇.md)
-* 敲开 GitHub 的大门 · 注册账号
-* GitHub 主页介绍及修改个人信息
-* 创建 GitHub 仓库的步骤及方法
-* GitHub 术语解释
+* [敲开 GitHub 的大门 · 注册账号](Chapter1/0102-敲开 GitHub的大门之注册账号.md)
+* [GitHub 主页介绍及修改个人信息](Chapter1/0103-GitHub主页介绍及修改个人信息.md)
+* [创建 GitHub 仓库的步骤及方法](Chapter1/0104-创建GitHub仓库的步骤及方法.md)
+* [GitHub 术语解释](Chapter1/0105-GitHub术语解释.md)
 
 ### 安装 Git 及体验 Git 命令
 
-* Git 的安装流程及步骤
-* Git 初体验及其常用命令介绍（上）
-* Git 初体验及其常用命令介绍（下）
+* [Git 的安装流程及步骤](Chapter2/0201-Git的安装流程及步骤.md)
+* [Git 初体验及其常用命令介绍上](Chapter2/0202-Git初体验及其常用命令介绍上篇.md)
+* [Git 初体验及其常用命令介绍下](Chapter2/0203-Git初体验及其常用命令介绍下篇.md)
 
 ### 使用 Git 与 GitHub 进行交互
 
-* 利用 SSH 完成 Git 与 GitHub 的绑定
-* 通过 Git 将代码提交到 GitHub（上）
-* 通过 Git 将代码提交到 GitHub（下）
-* Git 进阶之「设置别名」
+* [利用 SSH 完成 Git 与 GitHub 的绑定](Chapter3/0301-利用SSH完成Git与GitHub的绑定.md)
+* [通过 Git 将代码提交到 GitHub上](Chapter3/0302-通过Git将代码提交到GitHub上.md)
+* [通过 Git 将代码提交到 GitHub下](Chapter3/0302-通过Git将代码提交到GitHub下.md)
+* [Git 进阶之「设置别名」](Chapter3/0304-Git进阶之设置别名.md)
 
 ### 关于 GitHub 的若干补充
 
