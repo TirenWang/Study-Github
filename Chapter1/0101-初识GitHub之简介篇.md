@@ -16,21 +16,21 @@ GitHub 项目本身自然而然的也在 GitHub 上进行托管，只不过在�
 
 ### 2.1 Linus Torvalds
 
-![Torvalds](images\Torvalds.png)
+![Torvalds](images/Torvalds.png)
 
 GitHub 主页：https://github.com/torvalds
 Linus Torvalds，全球著名的电脑程序员、黑客，Linux 之父。
 
 ### 2.2John Resig
 
-![John Resig](images\John Resig.png)
+![John Resig](images/JohnResig.png)
 
 Github主页： https://github.com/jeresig
 John Resig，jQuery 的创始人和技术领袖，著有《Pro JavaScript Techniques》（即《精通JavaScript》）等经典 JavaScript 书籍。
 
 ### 2.3 Jake Wharton
 
-![Jake Wharton](images\Jake Wharton.png)
+![Jake Wharton](images/JakeWharton.png)
 
 Github主页： https://github.com/JakeWharton
 Jake Wharton， Android 之神，GitHub 全球排名第二位。
