@@ -37,6 +37,7 @@ Windows 10 ThinkPad：C:\Users\think\.ssh
 
 
 如上图所示，此结果即为Git 与 GitHub 绑定成功的标志。
+
 最后，附上博主的 GitHub 账号，欢迎大家 Follow：：[Tiren Wang](https://github.com/TirenWang)
 
 ------------------------------------------------
